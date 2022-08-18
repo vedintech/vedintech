@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vedintech
 - 👀 I’m interested in technologies
-- 🌱 I’m currently learning more about the universe
-- 💞️ I’m looking to collaborate on high tech codebases
-- 📫 Reach me on https://vedintech.com
+- 🌱 I’m currently learning more the tech world
+- 📫 Reach me on https://vedintech.com using the chatbot
 
 <!---
 vedintech/vedintech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
